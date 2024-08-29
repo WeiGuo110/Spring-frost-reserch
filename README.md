@@ -27,4 +27,4 @@ In the SI file, Supplementary S7's calculation code is in the folder named "SI7"
 In the SI file, Supplementary S8's calculation code is in the folder named "SI8"   <br> 
 In the SI file, the calculation code for Supplementary S9 and S10 is in the folder named "SI9_10"  <br> 
 
-Due to GitHub's file size limitations, we have compressed the calculation code and MAT data files into a single ZIP file. After downloading and unzipping the file, you can run the code directly. The download link is:  https://pan.baidu.com/s/1Ck_nsjbx2zog9Bkl-GPb8w, (Extraction code: s3xi).
+Due to GitHub's file size limitations, we have compressed the calculation code and MAT data files into a single ZIP file. After downloading and unzipping the file, you can run the code directly. The download link is:  https://pan.baidu.com/s/1Ck_nsjbx2zog9Bkl-GPb8w, (Extraction code: s3xi) or https://drive.google.com/file/d/1eyAn6CyAmnmojUXP4F2NMxzVgIrijLIa/view?usp=sharing
